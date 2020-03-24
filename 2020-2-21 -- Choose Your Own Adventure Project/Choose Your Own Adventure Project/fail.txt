@@ -1,2 +1,0 @@
-It looks like your story file has failed to open! *
-Please close the program and restart to try again *

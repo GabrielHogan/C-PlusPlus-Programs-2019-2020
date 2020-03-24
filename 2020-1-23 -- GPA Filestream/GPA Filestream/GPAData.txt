@@ -1,6 +1,0 @@
-John Doe A B A C B A *
-Mary Jones B A A C *
-Henry Ford C C C C C C *
-Betsy Ross A A A B B *
-Jack Sparrow B B B *
-Elizabeth Swann A A *

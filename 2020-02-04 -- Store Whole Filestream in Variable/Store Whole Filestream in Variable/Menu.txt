@@ -1,0 +1,7 @@
+Hamburger  3.50
+HotDog   1.50
+Pizza  2.00
+Nachos  2.50
+Fries 1.25
+Soda  1.00
+Candy 0.75

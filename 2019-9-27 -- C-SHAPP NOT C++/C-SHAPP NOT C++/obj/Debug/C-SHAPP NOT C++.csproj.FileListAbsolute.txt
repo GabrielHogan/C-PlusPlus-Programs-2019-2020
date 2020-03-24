@@ -1,9 +1,0 @@
-H:\C++\C-SHAPP NOT C++\C-SHAPP NOT C++\bin\Debug\C-SHAPP NOT C++.exe.config
-H:\C++\C-SHAPP NOT C++\C-SHAPP NOT C++\bin\Debug\C-SHAPP NOT C++.exe
-H:\C++\C-SHAPP NOT C++\C-SHAPP NOT C++\bin\Debug\C-SHAPP NOT C++.pdb
-H:\C++\C-SHAPP NOT C++\C-SHAPP NOT C++\obj\Debug\C-SHAPP NOT C++.csprojResolveAssemblyReference.cache
-H:\C++\C-SHAPP NOT C++\C-SHAPP NOT C++\obj\Debug\C_SHAPP_NOT_C__.Form1.resources
-H:\C++\C-SHAPP NOT C++\C-SHAPP NOT C++\obj\Debug\C_SHAPP_NOT_C__.Properties.Resources.resources
-H:\C++\C-SHAPP NOT C++\C-SHAPP NOT C++\obj\Debug\C-SHAPP NOT C++.csproj.GenerateResource.Cache
-H:\C++\C-SHAPP NOT C++\C-SHAPP NOT C++\obj\Debug\C-SHAPP NOT C++.exe
-H:\C++\C-SHAPP NOT C++\C-SHAPP NOT C++\obj\Debug\C-SHAPP NOT C++.pdb

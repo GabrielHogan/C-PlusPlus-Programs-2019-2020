@@ -1,6 +1,0 @@
-7 You’ve pulled up the gradebook and have changed all of your grades to 100%. *
-You also notice, though, that Gabe has been failing C++ ALL YEAR! *
-What do you do next? (Answer using capital letters) * 
-*
-A) Let him fail! What has he ever done for you? *
-B) Change his grade to 100%. *
